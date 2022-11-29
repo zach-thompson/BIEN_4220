@@ -1,10 +1,4 @@
 ;-------------------------------------------------------------------------------
-;	Lab 3 Part 2
-;	@author Caleb Celano
-;	program to drive motor with PWM and button to change speed
-;	BIEN 4220 Embedded Biomedical Instruments
-;
-;-------------------------------------------------------------------------------
             .cdecls C,LIST,"msp430.h"       ; include device header file
 
 ;-------------------------------------------------------------------------------
